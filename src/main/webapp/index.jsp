@@ -8,6 +8,6 @@
 		It is now
 		<%= new java.util.Date() %></p>
 	<p>
-		You are coming from this IP Address on EC2 Instance AWS testing image 2:
+		You are coming from this IP Address on EC2 Instance on AWS:
 		<%= request.getRemoteAddr()  %></p>
 </body>
