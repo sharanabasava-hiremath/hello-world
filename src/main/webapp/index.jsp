@@ -8,7 +8,7 @@
 		It is now
 		<%= new java.util.Date() %></p>
 	<p>
-		You are coming from this IP Address on AWS EC2 Instance: sample project latest build: 854
+		You are coming from this IP Address on AWS EC2 Instance: sample project latest build: 09 PM 15 minutes:
 		<%= request.getRemoteAddr()  %></p>
 </body>
 
