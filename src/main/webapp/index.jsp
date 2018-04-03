@@ -8,7 +8,7 @@
 		It is now
 		<%= new java.util.Date() %></p>
 	<p>
-		You are coming from this IP Address on AWS using Jenkins build: April 02 00 hours 25 minutes Pacific ST:
+		You are coming from this IP Address on AWS using Jenkins build: April 02 19 hours 55 minutes Pacific ST:
 		<%= request.getRemoteAddr()  %></p>
 </body>
 
