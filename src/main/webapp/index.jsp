@@ -8,7 +8,7 @@
 		It is now
 		<%= new java.util.Date() %></p>
 	<p>
-		This application is built using maven and jenkins on cloud </p>
+		This application is built using jenkins and docker on cloud </p>
 </body>
 
 
