@@ -101,31 +101,7 @@
           <div class="box center-block offset-bottom-large">
             <h1 class="h4 page-header text-center offset-bottom"><font color="white">Sign In</h1>
 
-            <!-- Error message on login failure -->
-            <div id="login_alert" class="alert alert-error alert-dismissible fade in">
-                <span class="glyphicon glyphicons-remove-circle offset-right" aria-hidden="true"></span>
-                This e-mail/password does not exist. Check your login credentials and re-enter again.
-            </div>
 
-            <form method="post" action="" id="login_form">
-            <!-- User Name -->
-            <div class="form-group">
-              <label class="control-label required" for="login_username"><font color="white">User Name:</label>
-              <input type="text" id="login_username" name="login[username]" class="form-control" placeholder="Enter Username"/>
-            </div>
-
-            <!-- Password -->
-            <div class="form-group">
-              <label class="control-label required" for="login_password"><font color="white">Password:</label>
-              <input type="password" id="login_password" name="login[password]" class="form-control" placeholder="Enter Password"/>
-            </div>
-
-            <!-- Submit -->
-            <div class="form-group">
-              <button id="login" type="submit" class="btn btn-primary btn-raised btn-block">
-                Sign In
-              </button>
-            </div>
           </form>
           </div>
 
