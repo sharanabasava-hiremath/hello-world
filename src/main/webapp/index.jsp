@@ -84,7 +84,7 @@
           <!-- Page header -->
           <div class="navbar-header">
             <a href="home.html" class="navbar-brand offset-right-large header-color" title="Cloud Captain">
-              <span class="hidden-sm">Welcome to your Java Application</span>
+              <span class="hidden-sm">Welcome to your Java Application, powered by CloudCaptain!</span>
             </a>
           </div>
 
@@ -99,7 +99,7 @@
         <div class="container">
 
           <div class="box center-block offset-bottom-large">
-            <h1 class="h4 page-header text-center offset-bottom"><font color="black">Sign In</h1>
+            <h1 class="h4 page-header text-center offset-bottom"><font color="white">Sign In</h1>
 
             <!-- Error message on login failure -->
             <div id="login_alert" class="alert alert-error alert-dismissible fade in">
