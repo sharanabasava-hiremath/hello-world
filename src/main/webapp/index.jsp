@@ -99,7 +99,7 @@
         <div class="container">
 
           <div class="box center-block offset-bottom-large">
-            <h1 class="h4 page-header text-center offset-bottom"><font color="white">Sign In</h1>
+
 
 
           </form>
