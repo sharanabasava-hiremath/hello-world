@@ -84,7 +84,7 @@
           <!-- Page header -->
           <div class="navbar-header">
             <a href="home.html" class="navbar-brand offset-right-large header-color" title="Cloud Captain">
-              <span class="hidden-sm">Welcome to your Sample Java Application</span>
+              <span class="hidden-sm">Welcome to your Java Application</span>
             </a>
           </div>
 
